@@ -1,1 +1,1 @@
-# alumni-management
+# Smart curriculum Activity and attendence app
